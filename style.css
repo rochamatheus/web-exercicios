@@ -1,0 +1,85 @@
+ 
+
+ body{
+
+     background: black;
+     font-family: 'Roboto', sans-serif;
+     color: white;
+     
+     
+
+ }
+
+ header {
+    
+    padding: 30px;
+    background: rgb(76, 32, 146);
+    border-bottom:  1 px solid #333;
+
+ }
+
+ .links{
+
+    text-align: center;
+ }
+
+ .links a {
+
+    color: white;
+    font-size: 18px;
+    line-height: 28px;
+    margin:  0 16px;
+    text-decoration: none;
+ }
+
+ .links a:hover {
+     color: darkorange;
+    transition: color 700ms;
+ }
+
+
+ #conteudo {
+     text-align: center ;
+     padding: 30px;
+ }
+
+ #conteudo img{
+     
+    border-radius: 1000px  ;
+
+    margin-bottom: 30px;
+
+    height: 300px;
+
+    border: 5px solid darkorange;
+}
+
+#conteudo h1{
+
+    font-size: 30px;
+    margin-bottom:  30px;
+    color: darkorchid;
+    
+}
+
+#conteudo p {
+
+    font-size:20px; ;
+    text-align: left;
+    color: darkorange;
+}
+
+#conteudo ul {
+
+    text-align: left;
+font-size: 20px;
+color: darkorange;
+
+}
+
+#conteudo li:hover { 
+    color: darkorchid;
+    transition: color 700ms;
+}
+
+
